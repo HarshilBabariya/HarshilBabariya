@@ -1,7 +1,7 @@
 ### Hi, I’m Harshil Babariya!
-- 👀 I’m interested in front end technologies.
-- 🌱 I’m currently learning React js.
-- 💞️ I’m looking to collaborate on application development.
+- 👀 I’m interested in Front-end Developing Technologies.
+- 🌱 I’m currently working in React js.
+- 💞️ I’m looking for collaborate in application development.
 - 📫 How to reach me : [Instagram - @harshil.2one](https://www.instagram.com/harshil.2one/) , [Telegram - @me](https://t.me/harshilbabariya01)
 - He / His
 
