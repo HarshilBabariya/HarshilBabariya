@@ -1,7 +1,7 @@
 ### Hi, I’m Harshil Babariya!
-- 👀 I’m interested in Front-end Developing Technologies.
-- 🌱 I’m currently working in React js.
-- 💞️ I’m looking for collaborate in application development.
+- 👀 I’m interested in Helping you make your desires happen.
+- 🌱 Currently working in ReactJs, NextJs, Remix, NodeJs, MySQL, MongoDB, PostgreSQL,Typescript, Javascript.
+- 💞️ I’m looking for collaborate in web application developments and innovative design implementations.
 - 📫 How to reach me : harshilbabariya01@gmail.com
 - Him / His
 
