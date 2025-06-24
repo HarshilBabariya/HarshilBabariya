@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Developing Technologies.
 - 🌱 I’m currently working in React js.
 - 💞️ I’m looking for collaborate in application development.
-- 📫 How to reach me : [Instagram - @harshil.2one](https://www.instagram.com/harshil.2one/)
+- 📫 How to reach me : harshilbabariya01@gmail.com
 - Him / His
 
 
